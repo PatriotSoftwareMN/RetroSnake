@@ -1,0 +1,69 @@
+/* design for our game */
+#instructions
+{
+  display: inline-block;
+}
+span
+{
+  color: #000080;
+}
+header
+{
+  text-decoration: underline;
+}
+
+#canvas1 {
+      width: 355px;
+      height: 355px;
+      background-image: url('https://ashertornado.com/wp-content/games/html5/snake/img/xfavicon.png.pagespeed.ic.8VxiUXH1Ty.webp');
+      background-size: auto 350px;
+      background-repeat: no-repeat;
+      background-position: center center;
+      padding: 0;
+      margin: 0;
+
+    }
+  
+    button {
+      background-color: #556B2F;
+      color: #FFFFFF;
+      border: solid;
+      border-color: #FFFFFF;
+      bottom: 0;
+      height: 30px;
+      font-size: 12pt;
+      float: left;
+      width: 90px;
+      margin: 10px 0 0 0;
+    }
+    button:hover {
+      background-color:  #1E90FF;
+    }
+
+    button:disabled {
+      background-color: #808080;
+    }
+
+    p {
+      font-family: Helvetica;
+      font-weight: bold;
+      width: 250px;
+      margin: 18px 0 5px 8px;
+      float: left;
+    }
+
+    .game {
+      margin: 0 auto;
+      border-radius: 5px;
+
+    }
+    canvas
+    {
+      margin: 0;
+      border: 2px solid #000000;
+      border-radius: 3px;
+    }
+
+    #fullscreenBtn {
+      height: 50px;
+    }
