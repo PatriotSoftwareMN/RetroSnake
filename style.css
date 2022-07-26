@@ -23,6 +23,12 @@ header
       margin: 0;
 
     }
+.popup {
+  text-align: center;
+  align-items: center;
+  z-index: 1;
+  background: fade(grey 50%);
+}
   
     button {
       background-color: #556B2F;
