@@ -1,6 +1,7 @@
 # Retro Snake
 ![Project Version](https://img.shields.io/badge/Version-1.0.0-blue)
 ![AT Project](https://img.shields.io/badge/AsherTornado%20Studio-Open%20Source%20Project-brightgreen)
+
 Retro Snake is the first AsherTornado Studio Official open source project.
 
 # Problems
