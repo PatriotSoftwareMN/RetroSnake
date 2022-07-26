@@ -1,4 +1,5 @@
 # Retro Snake
+![License](https://img.shields.io/badge/license-The%20Unlicense-green)
 ![Project Version](https://img.shields.io/badge/Version-1.0.0-blue)
 ![AT Project](https://img.shields.io/badge/AsherTornado%20Studio-Open%20Source%20Project-brightgreen)
 
@@ -13,3 +14,7 @@ If anyone could look at it and tell me what's wrong and how to fix it, that woul
 
 [HTML Demo](https://ashertornado2.github.io/RetroSnake)
 
+
+## License
+
+[The Unlicense](https://choosealicense.com/licenses/unlicense/)
