@@ -12,7 +12,7 @@ If anyone could look at it and tell me what's wrong and how to fix it, that woul
 
 ## Demo
 
-[HTML Demo](https://ashertornado2.github.io/RetroSnake)
+![HTML Demo](https://ashertornado2.github.io/RetroSnake)
 
 
 ## License
