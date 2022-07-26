@@ -1,5 +1,5 @@
 # Retro Snake
-![License](https://img.shields.io/badge/license-The%20Unlicense-green)
+![License](https://img.shields.io/badge/dynamic/json?color=green&label=license&query=%24.unlicense.badge.message&url=https%3A%2F%2Fgithub.com%2FAsherTornado2%2FBadgesSource%2Fraw%2Fmain%2Flicenses.json)
 ![Project Version](https://img.shields.io/badge/Version-1.0.0-blue)
 ![AT Project](https://img.shields.io/badge/AsherTornado%20Studio-Open%20Source%20Project-brightgreen)
 
