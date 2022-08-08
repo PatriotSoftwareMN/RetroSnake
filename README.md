@@ -19,6 +19,7 @@ If anyone could look at it and tell me what's wrong and how to fix it, that woul
 
 ## License
 ![GPL v3.0 logo](https://github.com/AsherTornado-Studio/RetroSnake/blob/main/images/gpl-v3-logo.svg)
+
 [GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
 
