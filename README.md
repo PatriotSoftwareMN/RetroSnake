@@ -17,4 +17,4 @@ If anyone could look at it and tell me what's wrong and how to fix it, that woul
 
 ## License
 
-[The Unlicense](https://choosealicense.com/licenses/unlicense/)
+[GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
