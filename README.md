@@ -1,5 +1,5 @@
 # Retro Snake
-![license](https://img.shields.io/github/license/AsherTornado2/RetroSnake?color=gree&logo=test)
+![license](https://img.shields.io/github/license/AsherTornado-Studio/RetroSnake)
 ![issues](https://img.shields.io/github/issues/AsherTornado2/RetroSnake)
 ![version](https://img.shields.io/badge/Version-1.0.0-blue)
 ![project-type](https://img.shields.io/badge/AsherTornado%20Studio-Open%20Source%20Project-brightgreen)
