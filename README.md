@@ -6,15 +6,19 @@
 
 Retro Snake is the first AsherTornado Studio Official open source project.
 
+Author: Mr Farmer <br>
+Publisher: AsherTornado Studio
+
 # Problems
 The only known problem right now is the scoring system.
 If anyone could look at it and tell me what's wrong and how to fix it, that would be great!
 
 ## Demo
-
 [HTML Demo](https://ashertornado2.github.io/RetroSnake)
 
 
 ## License
-
+![GPL v3.0 logo](https://github.com/AsherTornado-Studio/RetroSnake/blob/main/images/gpl-v3-logo.svg)
 [GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
+
